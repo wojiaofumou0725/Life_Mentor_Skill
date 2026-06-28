@@ -57,11 +57,11 @@
 技能文件中包含硬编码的路径,请根据你的实际情况修改:
 
 **Life Mentor-talk** 中需要修改的路径:
-- `C:\Users\傅颖芸\Documents\Obsidian Vault\10 正经人日记` → 改为你的日记目录
-- `C:\Users\傅颖芸\Documents\Obsidian Vault\10 正经人日记\Life Mentor对话技术\Life Mentor对话技术.md` → 改为你的对话技术文档路径
+- `C:\Users\XXX\Documents\Obsidian Vault\10 正经人日记` → 改为你的日记目录
+- `C:\Users\XXX\Documents\Obsidian Vault\10 正经人日记\Life Mentor对话技术\Life Mentor对话技术.md` → 改为你的对话技术文档路径
 
 **Life Mentor-review** 中需要修改的路径:
-- `C:\Users\傅颖芸\Documents\Obsidian Vault\10 正经人日记` → 改为你的日记目录
+- `C:\Users\XXX\Documents\Obsidian Vault\10 正经人日记` → 改为你的日记目录
 
 ## 对话技术库
 
