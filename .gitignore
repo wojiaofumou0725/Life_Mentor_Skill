@@ -1,0 +1,43 @@
+# 排除敏感文件和个人信息
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器/IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 依赖目录(如果将来添加)
+node_modules/
+venv/
+__pycache__/
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 临时文件
+*.tmp
+*.bak
+*.cache
+
+# 个人日记库(不应该上传到公共仓库)
+# 如果你的日记路径不同,请修改这里
+10 正经人日记/
+Documents/
+Obsidian Vault/
+
+# Windows用户特定路径
+C:/Users/
